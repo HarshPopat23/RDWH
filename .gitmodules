@@ -1,0 +1,279 @@
+[submodule "core-agent-platforms-orchestration/01-paperclip"]
+	path = core-agent-platforms-orchestration/01-paperclip
+	url = https://github.com/paperclipai/paperclip.git
+	branch = master
+
+[submodule "core-agent-platforms-orchestration/02-openhands"]
+	path = core-agent-platforms-orchestration/02-openhands
+	url = https://github.com/OpenHands/OpenHands.git
+	branch = main
+
+[submodule "core-agent-platforms-orchestration/03-compozyos"]
+	path = core-agent-platforms-orchestration/03-compozyos
+	url = https://github.com/compozy/compozy.git
+	branch = main
+
+[submodule "core-agent-platforms-orchestration/04-typedai"]
+	path = core-agent-platforms-orchestration/04-typedai
+	url = https://github.com/TrafficGuard/typedai.git
+	branch = main
+
+[submodule "core-agent-platforms-orchestration/05-metagpt"]
+	path = core-agent-platforms-orchestration/05-metagpt
+	url = https://github.com/FoundationAgents/MetaGPT.git
+	branch = main
+
+[submodule "core-agent-platforms-orchestration/06-superagi"]
+	path = core-agent-platforms-orchestration/06-superagi
+	url = https://github.com/TransformerOptimus/SuperAGI.git
+	branch = main
+
+[submodule "core-agent-platforms-orchestration/07-agency"]
+	path = core-agent-platforms-orchestration/07-agency
+	url = https://github.com/neurocult/agency.git
+	branch = main
+
+[submodule "core-agent-platforms-orchestration/08-fractal"]
+	path = core-agent-platforms-orchestration/08-fractal
+	url = https://github.com/plasma-ai/fractal.git
+	branch = main
+
+[submodule "core-agent-platforms-orchestration/09-microagent"]
+	path = core-agent-platforms-orchestration/09-microagent
+	url = https://github.com/aymenfurter/microagents.git
+	branch = main
+
+[submodule "core-agent-platforms-orchestration/10-thinkgpt"]
+	path = core-agent-platforms-orchestration/10-thinkgpt
+	url = https://github.com/jina-ai/thinkgpt.git
+	branch = main
+
+[submodule "managing-multiple-coding-agents/01-maestro"]
+	path = managing-multiple-coding-agents/01-maestro
+	url = https://github.com/RunMaestro/Maestro.git
+	branch = main
+
+[submodule "managing-multiple-coding-agents/02-agentsmesh"]
+	path = managing-multiple-coding-agents/02-agentsmesh
+	url = https://github.com/AgentsMesh/AgentsMesh.git
+	branch = main
+
+[submodule "managing-multiple-coding-agents/03-dorothy"]
+	path = managing-multiple-coding-agents/03-dorothy
+	url = https://github.com/Charlie85270/Dorothy.git
+	branch = main
+
+[submodule "managing-multiple-coding-agents/04-agent-teams-ai"]
+	path = managing-multiple-coding-agents/04-agent-teams-ai
+	url = https://github.com/777genius/agent-teams-ai.git
+	branch = main
+
+[submodule "managing-multiple-coding-agents/05-reevesagents"]
+	path = managing-multiple-coding-agents/05-reevesagents
+	url = https://github.com/mertkayacs/reevesagents.git
+	branch = master
+
+[submodule "managing-multiple-coding-agents/06-amux"]
+	path = managing-multiple-coding-agents/06-amux
+	url = https://github.com/mixpeek/amux.git
+	branch = main
+
+[submodule "managing-multiple-coding-agents/07-wmux"]
+	path = managing-multiple-coding-agents/07-wmux
+	url = https://github.com/openwong2kim/wmux.git
+	branch = main
+
+[submodule "managing-multiple-coding-agents/08-agent-manager"]
+	path = managing-multiple-coding-agents/08-agent-manager
+	url = https://github.com/YoanWai/agent-manager.git
+	branch = main
+
+[submodule "managing-multiple-coding-agents/09-cate"]
+	path = managing-multiple-coding-agents/09-cate
+	url = https://github.com/0-AI-UG/cate.git
+	branch = main
+
+[submodule "general-coding-assistants/01-opencode"]
+	path = general-coding-assistants/01-opencode
+	url = https://github.com/anomalyco/opencode.git
+	branch = dev
+
+[submodule "general-coding-assistants/02-aider"]
+	path = general-coding-assistants/02-aider
+	url = https://github.com/Aider-AI/aider.git
+	branch = main
+
+[submodule "general-coding-assistants/03-cline"]
+	path = general-coding-assistants/03-cline
+	url = https://github.com/cline/cline.git
+	branch = main
+
+[submodule "general-coding-assistants/04-plandex"]
+	path = general-coding-assistants/04-plandex
+	url = https://github.com/plandex-ai/plandex.git
+	branch = main
+
+[submodule "general-coding-assistants/05-keen-code"]
+	path = general-coding-assistants/05-keen-code
+	url = https://github.com/mochow13/keen-code.git
+	branch = main
+
+[submodule "general-coding-assistants/06-nanocoder"]
+	path = general-coding-assistants/06-nanocoder
+	url = https://github.com/Nano-Collective/nanocoder.git
+	branch = main
+
+[submodule "general-coding-assistants/07-orca"]
+	path = general-coding-assistants/07-orca
+	url = https://github.com/echoVic/orca-agent.git
+	branch = main
+
+[submodule "general-coding-assistants/08-tura"]
+	path = general-coding-assistants/08-tura
+	url = https://github.com/Tura-AI/tura.git
+	branch = main
+
+[submodule "general-coding-assistants/09-mu"]
+	path = general-coding-assistants/09-mu
+	url = https://github.com/qybaihe/mu.git
+	branch = main
+
+[submodule "general-coding-assistants/10-claude-engineer"]
+	path = general-coding-assistants/10-claude-engineer
+	url = https://github.com/Doriandarko/claude-engineer.git
+	branch = main
+
+[submodule "autonomous-development-issue-fixing/01-swe-agent"]
+	path = autonomous-development-issue-fixing/01-swe-agent
+	url = https://github.com/SWE-agent/SWE-agent.git
+	branch = main
+
+[submodule "autonomous-development-issue-fixing/02-openbitfun"]
+	path = autonomous-development-issue-fixing/02-openbitfun
+	url = https://github.com/GCWing/OpenBitFun.git
+	branch = main
+
+[submodule "autonomous-development-issue-fixing/03-gpt-pilot"]
+	path = autonomous-development-issue-fixing/03-gpt-pilot
+	url = https://github.com/Pythagora-io/gpt-pilot.git
+	branch = main
+
+[submodule "autonomous-development-issue-fixing/04-codel"]
+	path = autonomous-development-issue-fixing/04-codel
+	url = https://github.com/semanser/codel.git
+	branch = main
+
+[submodule "autonomous-development-issue-fixing/05-devika"]
+	path = autonomous-development-issue-fixing/05-devika
+	url = https://github.com/stitionai/devika.git
+	branch = main
+
+[submodule "autonomous-development-issue-fixing/06-pycodeagi"]
+	path = autonomous-development-issue-fixing/06-pycodeagi
+	url = https://github.com/chakkaradeep/pyCodeAGI.git
+	branch = main
+
+[submodule "coordinated-coding-verification/01-zeroshot"]
+	path = coordinated-coding-verification/01-zeroshot
+	url = https://github.com/the-open-engine/zeroshot.git
+	branch = main
+
+[submodule "coordinated-coding-verification/02-h5i"]
+	path = coordinated-coding-verification/02-h5i
+	url = https://github.com/h5i-dev/h5i.git
+	branch = main
+
+[submodule "coordinated-coding-verification/03-maestro-orchestrate"]
+	path = coordinated-coding-verification/03-maestro-orchestrate
+	url = https://github.com/josstei/maestro-orchestrate.git
+	branch = main
+
+[submodule "coordinated-coding-verification/04-orbi"]
+	path = coordinated-coding-verification/04-orbi
+	url = https://github.com/orbi-build/orbi.git
+	branch = main
+
+[submodule "coordinated-coding-verification/05-ouroboros-agent-os"]
+	path = coordinated-coding-verification/05-ouroboros-agent-os
+	url = https://github.com/Q00/ouroboros.git
+	branch = main
+
+[submodule "coordinated-coding-verification/06-ordewell"]
+	path = coordinated-coding-verification/06-ordewell
+	url = https://github.com/ordewell/ordewell.git
+	branch = main
+
+[submodule "code-review/01-opencodereview"]
+	path = code-review/01-opencodereview
+	url = https://github.com/alibaba/open-code-review.git
+	branch = main
+
+[submodule "code-review/02-reviewcerberus"]
+	path = code-review/02-reviewcerberus
+	url = https://github.com/Kirill89/reviewcerberus.git
+	branch = main
+
+[submodule "execution-isolation/01-greywall"]
+	path = execution-isolation/01-greywall
+	url = https://github.com/GreyhavenHQ/greywall.git
+	branch = main
+
+[submodule "execution-isolation/02-agentrun"]
+	path = execution-isolation/02-agentrun
+	url = https://github.com/tjmlabs/AgentRun.git
+	branch = main
+
+[submodule "local-model-coding/01-atomic-agent"]
+	path = local-model-coding/01-atomic-agent
+	url = https://github.com/AtomicBot-ai/atomic-agent.git
+	branch = main
+
+[submodule "local-model-coding/02-claude-code-local"]
+	path = local-model-coding/02-claude-code-local
+	url = https://github.com/nicedreamzapp/claude-code-local.git
+	branch = main
+
+[submodule "infrastructure-operations/01-stakpak"]
+	path = infrastructure-operations/01-stakpak
+	url = https://github.com/stakpak/agent.git
+	branch = main
+
+[submodule "infrastructure-operations/02-kubestellar-console"]
+	path = infrastructure-operations/02-kubestellar-console
+	url = https://github.com/kubestellar/console.git
+	branch = main
+
+[submodule "repository-understanding-documentation/01-repoagent"]
+	path = repository-understanding-documentation/01-repoagent
+	url = https://github.com/OpenBMB/RepoAgent.git
+	branch = main
+
+[submodule "database-data-agents/01-db-gpt"]
+	path = database-data-agents/01-db-gpt
+	url = https://github.com/eosphoros-ai/DB-GPT.git
+	branch = main
+
+[submodule "computer-vision-development/01-vision-agent"]
+	path = computer-vision-development/01-vision-agent
+	url = https://github.com/landing-ai/vision-agent.git
+	branch = main
+
+[submodule "frontend-development/01-frontman"]
+	path = frontend-development/01-frontman
+	url = https://github.com/frontman-ai/frontman.git
+	branch = main
+
+[submodule "llm-workflow-optimization/01-dspy"]
+	path = llm-workflow-optimization/01-dspy
+	url = https://github.com/stanfordnlp/dspy.git
+	branch = main
+
+[submodule "agent-governance/01-bernstein"]
+	path = agent-governance/01-bernstein
+	url = https://github.com/sipyourdrink-ltd/bernstein.git
+	branch = main
+
+[submodule "agent-monitoring/01-ctop"]
+	path = agent-monitoring/01-ctop
+	url = https://github.com/aakashadesara/ctop.git
+	branch = main

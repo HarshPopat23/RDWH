@@ -1,0 +1,606 @@
+{
+  "schema_version": 1,
+  "rank_basis": "User-approved provisional order for the combined-agent project; not a benchmark.",
+  "categories": [
+    {
+      "slug": "core-agent-platforms-orchestration",
+      "title": "Core agent platforms / orchestration",
+      "repositories": [
+        {
+          "name": "Paperclip",
+          "rank": 1,
+          "path": "core-agent-platforms-orchestration/01-paperclip",
+          "upstream": "paperclipai/paperclip",
+          "upstream_url": "https://github.com/paperclipai/paperclip",
+          "default_branch": "master",
+          "pinned_commit": "8f1cb11a034b82e93fa414f8e77beeb702cc14e8"
+        },
+        {
+          "name": "OpenHands",
+          "rank": 2,
+          "path": "core-agent-platforms-orchestration/02-openhands",
+          "upstream": "OpenHands/OpenHands",
+          "upstream_url": "https://github.com/OpenHands/OpenHands",
+          "default_branch": "main",
+          "pinned_commit": "ccdb08783cf83ffe4d72d8c41298c700fe7fda94"
+        },
+        {
+          "name": "CompozyOS",
+          "rank": 3,
+          "path": "core-agent-platforms-orchestration/03-compozyos",
+          "upstream": "compozy/compozy",
+          "upstream_url": "https://github.com/compozy/compozy",
+          "default_branch": "main",
+          "pinned_commit": "2cf9f5fae89db8c0e5ff1db61e108b7ea17464e0"
+        },
+        {
+          "name": "TypedAI",
+          "rank": 4,
+          "path": "core-agent-platforms-orchestration/04-typedai",
+          "upstream": "TrafficGuard/typedai",
+          "upstream_url": "https://github.com/TrafficGuard/typedai",
+          "default_branch": "main",
+          "pinned_commit": "34139aec65bb70f7062cf7f92667c11ffde4fcb1"
+        },
+        {
+          "name": "MetaGPT",
+          "rank": 5,
+          "path": "core-agent-platforms-orchestration/05-metagpt",
+          "upstream": "FoundationAgents/MetaGPT",
+          "upstream_url": "https://github.com/FoundationAgents/MetaGPT",
+          "default_branch": "main",
+          "pinned_commit": "11cdf466d042aece04fc6cfd13b28e1a70341b1f"
+        },
+        {
+          "name": "SuperAGI",
+          "rank": 6,
+          "path": "core-agent-platforms-orchestration/06-superagi",
+          "upstream": "TransformerOptimus/SuperAGI",
+          "upstream_url": "https://github.com/TransformerOptimus/SuperAGI",
+          "default_branch": "main",
+          "pinned_commit": "c3c1982e7bd6a11cfed53c5a193ea502f924b1b6"
+        },
+        {
+          "name": "Agency",
+          "rank": 7,
+          "path": "core-agent-platforms-orchestration/07-agency",
+          "upstream": "neurocult/agency",
+          "upstream_url": "https://github.com/neurocult/agency",
+          "default_branch": "main",
+          "pinned_commit": "a1e4f35c5bda985c4c8273dd674ad54ac5da1853"
+        },
+        {
+          "name": "fractal",
+          "rank": 8,
+          "path": "core-agent-platforms-orchestration/08-fractal",
+          "upstream": "plasma-ai/fractal",
+          "upstream_url": "https://github.com/plasma-ai/fractal",
+          "default_branch": "main",
+          "pinned_commit": "e0cb09611c03bf0ea07eb671319714857385413b"
+        },
+        {
+          "name": "MicroAgent",
+          "rank": 9,
+          "path": "core-agent-platforms-orchestration/09-microagent",
+          "upstream": "aymenfurter/microagents",
+          "upstream_url": "https://github.com/aymenfurter/microagents",
+          "default_branch": "main",
+          "pinned_commit": "5d52c807de0a607440dc52d1c71e789ca4132441"
+        },
+        {
+          "name": "ThinkGPT",
+          "rank": 10,
+          "path": "core-agent-platforms-orchestration/10-thinkgpt",
+          "upstream": "jina-ai/thinkgpt",
+          "upstream_url": "https://github.com/jina-ai/thinkgpt",
+          "default_branch": "main",
+          "pinned_commit": "59dd7e8a881d7c6cf280c140344a72321bc289d6"
+        }
+      ]
+    },
+    {
+      "slug": "managing-multiple-coding-agents",
+      "title": "Managing multiple coding agents",
+      "repositories": [
+        {
+          "name": "Maestro",
+          "rank": 1,
+          "path": "managing-multiple-coding-agents/01-maestro",
+          "upstream": "RunMaestro/Maestro",
+          "upstream_url": "https://github.com/RunMaestro/Maestro",
+          "default_branch": "main",
+          "pinned_commit": "d17490464a24e577fd71aa4c221331ed6865c9d5"
+        },
+        {
+          "name": "AgentsMesh",
+          "rank": 2,
+          "path": "managing-multiple-coding-agents/02-agentsmesh",
+          "upstream": "AgentsMesh/AgentsMesh",
+          "upstream_url": "https://github.com/AgentsMesh/AgentsMesh",
+          "default_branch": "main",
+          "pinned_commit": "d38e3932df436fadd814a8871b8c6b7be52281d5"
+        },
+        {
+          "name": "Dorothy",
+          "rank": 3,
+          "path": "managing-multiple-coding-agents/03-dorothy",
+          "upstream": "Charlie85270/Dorothy",
+          "upstream_url": "https://github.com/Charlie85270/Dorothy",
+          "default_branch": "main",
+          "pinned_commit": "470b8ac71c51a5f1634672d5b430f190cfb65646"
+        },
+        {
+          "name": "Agent Teams AI",
+          "rank": 4,
+          "path": "managing-multiple-coding-agents/04-agent-teams-ai",
+          "upstream": "777genius/agent-teams-ai",
+          "upstream_url": "https://github.com/777genius/agent-teams-ai",
+          "default_branch": "main",
+          "pinned_commit": "5aa0a03b6e87e48cfce6060cde0341c73d7cfa57"
+        },
+        {
+          "name": "ReevesAgents",
+          "rank": 5,
+          "path": "managing-multiple-coding-agents/05-reevesagents",
+          "upstream": "mertkayacs/reevesagents",
+          "upstream_url": "https://github.com/mertkayacs/reevesagents",
+          "default_branch": "master",
+          "pinned_commit": "7a5d37721ed1df20608a640cf7ce8411b2880ec5"
+        },
+        {
+          "name": "amux",
+          "rank": 6,
+          "path": "managing-multiple-coding-agents/06-amux",
+          "upstream": "mixpeek/amux",
+          "upstream_url": "https://github.com/mixpeek/amux",
+          "default_branch": "main",
+          "pinned_commit": "6f192797264dd6701603aaef01bbdde3ce8580f0"
+        },
+        {
+          "name": "wmux",
+          "rank": 7,
+          "path": "managing-multiple-coding-agents/07-wmux",
+          "upstream": "openwong2kim/wmux",
+          "upstream_url": "https://github.com/openwong2kim/wmux",
+          "default_branch": "main",
+          "pinned_commit": "6abc7ef205fbc170ecefcee2f8a2e069efe103a8"
+        },
+        {
+          "name": "agent-manager",
+          "rank": 8,
+          "path": "managing-multiple-coding-agents/08-agent-manager",
+          "upstream": "YoanWai/agent-manager",
+          "upstream_url": "https://github.com/YoanWai/agent-manager",
+          "default_branch": "main",
+          "pinned_commit": "258117120aee1534c9437421c07d9902f00daab2"
+        },
+        {
+          "name": "Cate",
+          "rank": 9,
+          "path": "managing-multiple-coding-agents/09-cate",
+          "upstream": "0-AI-UG/cate",
+          "upstream_url": "https://github.com/0-AI-UG/cate",
+          "default_branch": "main",
+          "pinned_commit": "cd5494357270fd6412e08d0f7574ed5cbcdd0782"
+        }
+      ]
+    },
+    {
+      "slug": "general-coding-assistants",
+      "title": "General coding assistants",
+      "repositories": [
+        {
+          "name": "OpenCode",
+          "rank": 1,
+          "path": "general-coding-assistants/01-opencode",
+          "upstream": "anomalyco/opencode",
+          "upstream_url": "https://github.com/anomalyco/opencode",
+          "default_branch": "dev",
+          "pinned_commit": "50d4280dbdb2a8e5d9c89eb6c893d12c7a37f69f"
+        },
+        {
+          "name": "Aider",
+          "rank": 2,
+          "path": "general-coding-assistants/02-aider",
+          "upstream": "Aider-AI/aider",
+          "upstream_url": "https://github.com/Aider-AI/aider",
+          "default_branch": "main",
+          "pinned_commit": "5dc9490bb35f9729ef2c95d00a19ccd30c26339c"
+        },
+        {
+          "name": "Cline",
+          "rank": 3,
+          "path": "general-coding-assistants/03-cline",
+          "upstream": "cline/cline",
+          "upstream_url": "https://github.com/cline/cline",
+          "default_branch": "main",
+          "pinned_commit": "01b8a9724da905423e636396d7fb4acdf47796bb"
+        },
+        {
+          "name": "Plandex",
+          "rank": 4,
+          "path": "general-coding-assistants/04-plandex",
+          "upstream": "plandex-ai/plandex",
+          "upstream_url": "https://github.com/plandex-ai/plandex",
+          "default_branch": "main",
+          "pinned_commit": "e2d772072efadbe41d2946d97d79be55532dbab5"
+        },
+        {
+          "name": "Keen Code",
+          "rank": 5,
+          "path": "general-coding-assistants/05-keen-code",
+          "upstream": "mochow13/keen-code",
+          "upstream_url": "https://github.com/mochow13/keen-code",
+          "default_branch": "main",
+          "pinned_commit": "725e44f0548d0b8e5f437cf5aec28fb2d7b13bc9"
+        },
+        {
+          "name": "Nanocoder",
+          "rank": 6,
+          "path": "general-coding-assistants/06-nanocoder",
+          "upstream": "Nano-Collective/nanocoder",
+          "upstream_url": "https://github.com/Nano-Collective/nanocoder",
+          "default_branch": "main",
+          "pinned_commit": "3945ef797b38085c551ae7c7e11be59f167f6bc0"
+        },
+        {
+          "name": "Orca",
+          "rank": 7,
+          "path": "general-coding-assistants/07-orca",
+          "upstream": "echoVic/orca-agent",
+          "upstream_url": "https://github.com/echoVic/orca-agent",
+          "default_branch": "main",
+          "pinned_commit": "a7631c5c5e6d40ce7d4db3eef3f3ad3e0163f228"
+        },
+        {
+          "name": "Tura",
+          "rank": 8,
+          "path": "general-coding-assistants/08-tura",
+          "upstream": "Tura-AI/tura",
+          "upstream_url": "https://github.com/Tura-AI/tura",
+          "default_branch": "main",
+          "pinned_commit": "a6d1364f0876fd564efee9503c0be8d7cd7a926d"
+        },
+        {
+          "name": "mu",
+          "rank": 9,
+          "path": "general-coding-assistants/09-mu",
+          "upstream": "qybaihe/mu",
+          "upstream_url": "https://github.com/qybaihe/mu",
+          "default_branch": "main",
+          "pinned_commit": "6c8126d3a4dfef5a5c8bbf175885de7ed394c901"
+        },
+        {
+          "name": "Claude Engineer",
+          "rank": 10,
+          "path": "general-coding-assistants/10-claude-engineer",
+          "upstream": "Doriandarko/claude-engineer",
+          "upstream_url": "https://github.com/Doriandarko/claude-engineer",
+          "default_branch": "main",
+          "pinned_commit": "0a9e4b309bf6b2eda05dcf073cf5094beb08e0c8"
+        }
+      ]
+    },
+    {
+      "slug": "autonomous-development-issue-fixing",
+      "title": "Autonomous development / issue fixing",
+      "repositories": [
+        {
+          "name": "SWE Agent",
+          "rank": 1,
+          "path": "autonomous-development-issue-fixing/01-swe-agent",
+          "upstream": "SWE-agent/SWE-agent",
+          "upstream_url": "https://github.com/SWE-agent/SWE-agent",
+          "default_branch": "main",
+          "pinned_commit": "3ea751c087f32b16e039a2233dd6eefecef325d5"
+        },
+        {
+          "name": "OpenBitFun",
+          "rank": 2,
+          "path": "autonomous-development-issue-fixing/02-openbitfun",
+          "upstream": "GCWing/OpenBitFun",
+          "upstream_url": "https://github.com/GCWing/OpenBitFun",
+          "default_branch": "main",
+          "pinned_commit": "8211dd1c4c9c22c1111c92c51c4e89c52d633f26"
+        },
+        {
+          "name": "GPT Pilot",
+          "rank": 3,
+          "path": "autonomous-development-issue-fixing/03-gpt-pilot",
+          "upstream": "Pythagora-io/gpt-pilot",
+          "upstream_url": "https://github.com/Pythagora-io/gpt-pilot",
+          "default_branch": "main",
+          "pinned_commit": "9b763fdaf0020c7d8abacc7b58b2b09e57494623"
+        },
+        {
+          "name": "Codel",
+          "rank": 4,
+          "path": "autonomous-development-issue-fixing/04-codel",
+          "upstream": "semanser/codel",
+          "upstream_url": "https://github.com/semanser/codel",
+          "default_branch": "main",
+          "pinned_commit": "fe1e846c9e04f41209498ed0d88e92b15dcdfad2"
+        },
+        {
+          "name": "Devika",
+          "rank": 5,
+          "path": "autonomous-development-issue-fixing/05-devika",
+          "upstream": "stitionai/devika",
+          "upstream_url": "https://github.com/stitionai/devika",
+          "default_branch": "main",
+          "pinned_commit": "80bb343cbe4a4e5f5a0ba08d2524920139baceb6"
+        },
+        {
+          "name": "PyCodeAGI",
+          "rank": 6,
+          "path": "autonomous-development-issue-fixing/06-pycodeagi",
+          "upstream": "chakkaradeep/pyCodeAGI",
+          "upstream_url": "https://github.com/chakkaradeep/pyCodeAGI",
+          "default_branch": "main",
+          "pinned_commit": "13e02cf25fa64287531cb774e3cc74f53b6f79d0"
+        }
+      ]
+    },
+    {
+      "slug": "coordinated-coding-verification",
+      "title": "Coordinated coding and verification",
+      "repositories": [
+        {
+          "name": "zeroshot",
+          "rank": 1,
+          "path": "coordinated-coding-verification/01-zeroshot",
+          "upstream": "the-open-engine/zeroshot",
+          "upstream_url": "https://github.com/the-open-engine/zeroshot",
+          "default_branch": "main",
+          "pinned_commit": "b62ee8afdddcd3f48efe263d37f2688beeee6169"
+        },
+        {
+          "name": "h5i",
+          "rank": 2,
+          "path": "coordinated-coding-verification/02-h5i",
+          "upstream": "h5i-dev/h5i",
+          "upstream_url": "https://github.com/h5i-dev/h5i",
+          "default_branch": "main",
+          "pinned_commit": "5d03fc82d9cbbf6a748b31a9797323c2bd7193d5"
+        },
+        {
+          "name": "Maestro Orchestrate",
+          "rank": 3,
+          "path": "coordinated-coding-verification/03-maestro-orchestrate",
+          "upstream": "josstei/maestro-orchestrate",
+          "upstream_url": "https://github.com/josstei/maestro-orchestrate",
+          "default_branch": "main",
+          "pinned_commit": "e74aaad7bc6edc00d97b887bb9347a815c9c1058"
+        },
+        {
+          "name": "Orbi",
+          "rank": 4,
+          "path": "coordinated-coding-verification/04-orbi",
+          "upstream": "orbi-build/orbi",
+          "upstream_url": "https://github.com/orbi-build/orbi",
+          "default_branch": "main",
+          "pinned_commit": "ce0d7dc09d7c9c3511a4b05fa87b11e223aeb5dd"
+        },
+        {
+          "name": "Ouroboros (Agent OS)",
+          "rank": 5,
+          "path": "coordinated-coding-verification/05-ouroboros-agent-os",
+          "upstream": "Q00/ouroboros",
+          "upstream_url": "https://github.com/Q00/ouroboros",
+          "default_branch": "main",
+          "pinned_commit": "26eaddacb93ea79293193d09bc36485050cab7d1"
+        },
+        {
+          "name": "Ordewell",
+          "rank": 6,
+          "path": "coordinated-coding-verification/06-ordewell",
+          "upstream": "ordewell/ordewell",
+          "upstream_url": "https://github.com/ordewell/ordewell",
+          "default_branch": "main",
+          "pinned_commit": "37b169b4568ac047821ca57b14a5b22bf4030b8e"
+        }
+      ]
+    },
+    {
+      "slug": "code-review",
+      "title": "Code review",
+      "repositories": [
+        {
+          "name": "OpenCodeReview",
+          "rank": 1,
+          "path": "code-review/01-opencodereview",
+          "upstream": "alibaba/open-code-review",
+          "upstream_url": "https://github.com/alibaba/open-code-review",
+          "default_branch": "main",
+          "pinned_commit": "8eb83340a487b1150af00701b94f01af97e4b4d6"
+        },
+        {
+          "name": "ReviewCerberus",
+          "rank": 2,
+          "path": "code-review/02-reviewcerberus",
+          "upstream": "Kirill89/reviewcerberus",
+          "upstream_url": "https://github.com/Kirill89/reviewcerberus",
+          "default_branch": "main",
+          "pinned_commit": "0bfd89f8d1c18295154b42aa533da55bc02edc7b"
+        }
+      ]
+    },
+    {
+      "slug": "execution-isolation",
+      "title": "Execution isolation",
+      "repositories": [
+        {
+          "name": "Greywall",
+          "rank": 1,
+          "path": "execution-isolation/01-greywall",
+          "upstream": "GreyhavenHQ/greywall",
+          "upstream_url": "https://github.com/GreyhavenHQ/greywall",
+          "default_branch": "main",
+          "pinned_commit": "60ab1b5bfd41c1683220435a85fc116dc29fd04f"
+        },
+        {
+          "name": "AgentRun",
+          "rank": 2,
+          "path": "execution-isolation/02-agentrun",
+          "upstream": "tjmlabs/AgentRun",
+          "upstream_url": "https://github.com/tjmlabs/AgentRun",
+          "default_branch": "main",
+          "pinned_commit": "1997dd71d5350dd1e0c993cdd7060b3b9b765a8d"
+        }
+      ]
+    },
+    {
+      "slug": "local-model-coding",
+      "title": "Local-model coding",
+      "repositories": [
+        {
+          "name": "Atomic Agent",
+          "rank": 1,
+          "path": "local-model-coding/01-atomic-agent",
+          "upstream": "AtomicBot-ai/atomic-agent",
+          "upstream_url": "https://github.com/AtomicBot-ai/atomic-agent",
+          "default_branch": "main",
+          "pinned_commit": "7899d173e0a07665f45cf014de065eb38f405127"
+        },
+        {
+          "name": "Claude Code Local",
+          "rank": 2,
+          "path": "local-model-coding/02-claude-code-local",
+          "upstream": "nicedreamzapp/claude-code-local",
+          "upstream_url": "https://github.com/nicedreamzapp/claude-code-local",
+          "default_branch": "main",
+          "pinned_commit": "440cd68936fe0fc6e33d2f90307b139ba33d777e"
+        }
+      ]
+    },
+    {
+      "slug": "infrastructure-operations",
+      "title": "Infrastructure operations",
+      "repositories": [
+        {
+          "name": "Stakpak",
+          "rank": 1,
+          "path": "infrastructure-operations/01-stakpak",
+          "upstream": "stakpak/agent",
+          "upstream_url": "https://github.com/stakpak/agent",
+          "default_branch": "main",
+          "pinned_commit": "760cd2b5984d29c2d513bb15ca33e995fae45f17"
+        },
+        {
+          "name": "KubeStellar Console",
+          "rank": 2,
+          "path": "infrastructure-operations/02-kubestellar-console",
+          "upstream": "kubestellar/console",
+          "upstream_url": "https://github.com/kubestellar/console",
+          "default_branch": "main",
+          "pinned_commit": "f1a86ff9ec0fa56d98bd53d9c1b70cb764e10cf4"
+        }
+      ]
+    },
+    {
+      "slug": "repository-understanding-documentation",
+      "title": "Repository understanding / documentation",
+      "repositories": [
+        {
+          "name": "RepoAgent",
+          "rank": 1,
+          "path": "repository-understanding-documentation/01-repoagent",
+          "upstream": "OpenBMB/RepoAgent",
+          "upstream_url": "https://github.com/OpenBMB/RepoAgent",
+          "default_branch": "main",
+          "pinned_commit": "825d988127d7bfd757237d9c4e8678d9104030f0"
+        }
+      ]
+    },
+    {
+      "slug": "database-data-agents",
+      "title": "Database and data agents",
+      "repositories": [
+        {
+          "name": "DB GPT",
+          "rank": 1,
+          "path": "database-data-agents/01-db-gpt",
+          "upstream": "eosphoros-ai/DB-GPT",
+          "upstream_url": "https://github.com/eosphoros-ai/DB-GPT",
+          "default_branch": "main",
+          "pinned_commit": "361eb34476970ae4dba6d33454a45669ec6851bb"
+        }
+      ]
+    },
+    {
+      "slug": "computer-vision-development",
+      "title": "Computer-vision development",
+      "repositories": [
+        {
+          "name": "Vision agent",
+          "rank": 1,
+          "path": "computer-vision-development/01-vision-agent",
+          "upstream": "landing-ai/vision-agent",
+          "upstream_url": "https://github.com/landing-ai/vision-agent",
+          "default_branch": "main",
+          "pinned_commit": "545651c8899a81f49fbfa2fac797111e5f0a6be3"
+        }
+      ]
+    },
+    {
+      "slug": "frontend-development",
+      "title": "Frontend development",
+      "repositories": [
+        {
+          "name": "Frontman",
+          "rank": 1,
+          "path": "frontend-development/01-frontman",
+          "upstream": "frontman-ai/frontman",
+          "upstream_url": "https://github.com/frontman-ai/frontman",
+          "default_branch": "main",
+          "pinned_commit": "0bfca4ed2e7cc8bcf7e3bb87e51b277322d000a8"
+        }
+      ]
+    },
+    {
+      "slug": "llm-workflow-optimization",
+      "title": "LLM workflow optimization",
+      "repositories": [
+        {
+          "name": "DSPy",
+          "rank": 1,
+          "path": "llm-workflow-optimization/01-dspy",
+          "upstream": "stanfordnlp/dspy",
+          "upstream_url": "https://github.com/stanfordnlp/dspy",
+          "default_branch": "main",
+          "pinned_commit": "869874767729866f96f77e757a685ee72fb663a5"
+        }
+      ]
+    },
+    {
+      "slug": "agent-governance",
+      "title": "Agent governance",
+      "repositories": [
+        {
+          "name": "Bernstein",
+          "rank": 1,
+          "path": "agent-governance/01-bernstein",
+          "upstream": "sipyourdrink-ltd/bernstein",
+          "upstream_url": "https://github.com/sipyourdrink-ltd/bernstein",
+          "default_branch": "main",
+          "pinned_commit": "88c9857deeba255d25a34f6a9a9081e2fa508aad"
+        }
+      ]
+    },
+    {
+      "slug": "agent-monitoring",
+      "title": "Agent monitoring",
+      "repositories": [
+        {
+          "name": "ctop",
+          "rank": 1,
+          "path": "agent-monitoring/01-ctop",
+          "upstream": "aakashadesara/ctop",
+          "upstream_url": "https://github.com/aakashadesara/ctop",
+          "default_branch": "main",
+          "pinned_commit": "6e2265182f9ec06ae35c73d4c10dfb773b21da39"
+        }
+      ]
+    }
+  ]
+}
